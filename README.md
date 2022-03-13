@@ -6,4 +6,4 @@ Includes...
   - 8-bit accumulator
   - Three-bit adder
   - Four-to-one multiplexer
-  - Vending machine concept. 
+  - Vending machine concept 
